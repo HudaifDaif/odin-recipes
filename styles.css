@@ -1,0 +1,27 @@
+.pg-header {
+    text-align: center;
+    background-color: #0000ff60;
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+
+.list {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    }
+
+h2,
+h3,
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 30px;
+    background-color: #0000ff60;
+}
